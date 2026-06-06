@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Johnny Paschen",
-  title: "Game Developer - Programmer",
+  title: "Game Developer",
   email: "jbpaschen@student.fullsail.edu",
   gitHub: "JohnnyPaschen",
   instagram: "",
