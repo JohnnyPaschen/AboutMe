@@ -36,6 +36,7 @@ const skillsList = [
   "Git/Perforce for source control",
   "Blender for modeling 2D and 3D assets",
   "Gimp for UI design",
+  "LMMS for music production and Sound design",
 ];
 
 /**
